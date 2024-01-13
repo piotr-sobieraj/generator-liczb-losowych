@@ -84,8 +84,8 @@ int main() {
 
 
 /*
-    2, 3, 5, 7, 11, 13 - wybieramy 3 liczby
-    ale bez ukladu 2, 5, 7
+    2, 11, 13 - wybieramy 3 liczby
+    
 
     Konstuujemy swoj wlasny generator i obliczamy moc 
 
